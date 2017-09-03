@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2017\Projects\SopranoTribute\SopranoTribute\bin\Debug\netcoreapp1.1\SopranoTribute.deps.json
+c:\users\user\documents\visual studio 2017\Projects\SopranoTribute\SopranoTribute\bin\Debug\netcoreapp1.1\SopranoTribute.runtimeconfig.json
+c:\users\user\documents\visual studio 2017\Projects\SopranoTribute\SopranoTribute\bin\Debug\netcoreapp1.1\SopranoTribute.runtimeconfig.dev.json
+c:\users\user\documents\visual studio 2017\Projects\SopranoTribute\SopranoTribute\bin\Debug\netcoreapp1.1\SopranoTribute.dll
+c:\users\user\documents\visual studio 2017\Projects\SopranoTribute\SopranoTribute\bin\Debug\netcoreapp1.1\SopranoTribute.pdb
+c:\users\user\documents\visual studio 2017\Projects\SopranoTribute\SopranoTribute\obj\Debug\netcoreapp1.1\SopranoTribute.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\SopranoTribute\SopranoTribute\obj\Debug\netcoreapp1.1\SopranoTribute.AssemblyInfo.cs
+c:\users\user\documents\visual studio 2017\Projects\SopranoTribute\SopranoTribute\obj\Debug\netcoreapp1.1\SopranoTribute.dll
+c:\users\user\documents\visual studio 2017\Projects\SopranoTribute\SopranoTribute\obj\Debug\netcoreapp1.1\SopranoTribute.pdb
